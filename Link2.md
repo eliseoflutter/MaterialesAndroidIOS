@@ -87,6 +87,16 @@ https://www.javatpoint.com/sqlite-tutorial
 https://www.tutorialspoint.com/sqlite/sqlite_installation.htm
 
 
+## Roman Jaquez
+
+https://github.com/romanejaquez
+
+## Frank Moreno Kranfix
+https://github.com/kranfix
+
+## Frank Martin Moreno Alburqueque
+
+https://github.com/fmorenoadmin
 
 
 
