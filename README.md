@@ -63,3 +63,5 @@ https://github.com/Arkangel12
 https://youtu.be/Oniedo3CBDE
 
 https://youtu.be/Oniedo3CBDE
+
+https://www.didierboelens.com/2018/06/widget-state-context-inheritedwidget/
