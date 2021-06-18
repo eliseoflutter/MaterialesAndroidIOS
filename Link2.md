@@ -86,6 +86,8 @@ https://www.sqlite.org/download.html
 https://www.javatpoint.com/sqlite-tutorial
 https://www.tutorialspoint.com/sqlite/sqlite_installation.htm
 
+## Andy Eulogio
+https://github.com/andygeek
 
 
 
